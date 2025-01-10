@@ -4,7 +4,7 @@
 
 <h3 align="left">About me</h3>
 <p>I'm Lucas Martins, a programming enthusiast who's improving my skills in languages ​​such as JavaScript, Python, HTML and CSS.</p>
-<p align="left">- 🔭 I'm working on a dashboard in Python<br>- 📚 I'm currently studying Python<br>- ⚡ In my free time I watch films, series and read books</p>
+<p align="left">- 📚 I'm currently studying JavaScript</p>
 
 ###
 <!-- <div align="center">
