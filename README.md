@@ -88,7 +88,7 @@ Experienced in web and mobile development, infrastructure, and system support. I
   &nbsp;Microsoft Learn
 </h4>
 
-- **Completed Courses:** Focused on Microsoft 365, Azure (fundamentals), productivity, security, and Microsoft environment administration[cite: 61, 62, 63, 64, 65, 66, 67].
+- **Completed Courses:** Focused on Microsoft 365, Azure (fundamentals), productivity, security, and Microsoft environment administration.
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/rest%20api.gif?raw=true" width="22" height="22" valign="middle">
@@ -110,7 +110,7 @@ Experienced in web and mobile development, infrastructure, and system support. I
   &nbsp;Languages
 </h4>
 
-- **Portuguese:** Native[cite: 26].
+- **Portuguese:** Native.
 - **English:** Reading, writing, and conversation (B1).
 
 </details>
