@@ -15,30 +15,30 @@ Experienced in web and mobile development, infrastructure, and system support. I
 
 <p>
   <b>IT Support Technician</b> — Statera TI <br>
-  <i>Current</i> [cite: 15]
+  <i>Current</i> 
 </p>
 
-- [cite_start]Administration and support in Microsoft 365[cite: 17].
-- [cite_start]IT infrastructure and networking[cite: 18].
-- [cite_start]Maintenance and administration of servers[cite: 19, 21].
-- [cite_start]System support for operational systems including Windows, Linux, macOS, and Android[cite: 23].
-- [cite_start]Computer and hardware maintenance[cite: 24].
-- [cite_start]Presencial and remote technical support[cite: 24].
+- Administration and support in Microsoft 365.
+- IT infrastructure and networking.
+- Maintenance and administration of servers.
+- System support for operational systems including Windows, Linux, macOS, and Android.
+- Computer and hardware maintenance.
+- Presencial and remote technical support.
 
 <br>
 
 <p>
-  [cite_start]<b>Web & App Developer</b> — Projeto Desenvolve [cite: 5]<br>
-  [cite_start]<i>2024 – January 2026</i> [cite: 5]
+  <b>Web & App Developer</b> — Projeto Desenvolve<br>
+  <i>2024 – January 2026</i> 
 </p>
 
-- [cite_start]Development of web and mobile projects, applying modern programming and collaboration practices[cite: 6].
-- [cite_start]Implementation of components and routes with React.js and Node.js[cite: 7].
-- [cite_start]Consumption and creation of REST APIs[cite: 8].
-- [cite_start]Creation of responsive applications in FlutterFlow and Bubble[cite: 9].
-- [cite_start]Version control with Git and GitHub[cite: 10].
-- [cite_start]Participation in agile groups, following Scrum methodology[cite: 11].
-- [cite_start]**Featured Projects:** Site Desafio (HTML, CSS, JS) and Python Dashboard[cite: 12, 13, 14].
+- Development of web and mobile projects, applying modern programming and collaboration practices.
+- Implementation of components and routes with React.js and Node.js.
+- Consumption and creation of REST APIs.
+- Creation of responsive applications in FlutterFlow and Bubble.
+- Version control with Git and GitHub.
+- Participation in agile groups, following Scrum methodology.
+- **Featured Projects:** Site Desafio (HTML, CSS, JS) and Python Dashboard.
 
 <br clear="left"/>
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
@@ -50,33 +50,33 @@ Experienced in web and mobile development, infrastructure, and system support. I
   &nbsp;Programming & Scripting
 </h4>
 
-- [cite_start]**Languages:** JavaScript, Python, HTML, CSS, SQL, Java (Intermediate)[cite: 32, 37, 38].
-- [cite_start]**Concepts:** Object-Oriented Programming (OOP) and Programming Logic[cite: 39].
+- **Languages:** JavaScript, Python, HTML, CSS, SQL, Java (Intermediate).
+- **Concepts:** Object-Oriented Programming (OOP) and Programming Logic.
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/rest%20api.gif?raw=true" width="22" height="22" valign="middle">
   &nbsp;Web & Mobile Development
 </h4>
 
-- [cite_start]**Frameworks/Platforms:** React.js, Node.js, FlutterFlow, Bubble[cite: 32].
-- [cite_start]**Architecture:** REST APIs[cite: 38].
+- **Frameworks/Platforms:** React.js, Node.js, FlutterFlow, Bubble.
+- **Architecture:** REST APIs.
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/cloud.gif?raw=true" width="22" height="22" valign="middle">
   &nbsp;Infrastructure & IT Support
 </h4>
 
-- [cite_start]**Cloud:** Microsoft Azure (Basic)[cite: 40, 41].
-- [cite_start]**Infrastructure:** Networking, Server Management, and Virtualization[cite: 42, 43].
-- [cite_start]**Systems:** Microsoft 365, Hardware Support[cite: 44].
+- **Cloud:** Microsoft Azure (Basic).
+- **Infrastructure:** Networking, Server Management, and Virtualization.
+- **Systems:** Microsoft 365, Hardware Support.
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/data.gif?raw=true" width="22" height="22" valign="middle">
   &nbsp;Data & Tools
 </h4>
 
-- [cite_start]**Databases:** MySQL / PostgreSQL[cite: 36].
-- [cite_start]**Tools & Methodologies:** Git, GitHub, Scrum, Kanban (Agile Methodologies)[cite: 45].
+- **Databases:** MySQL / PostgreSQL.
+- **Tools & Methodologies:** Git, GitHub, Scrum, Kanban (Agile Methodologies).
 
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
@@ -88,30 +88,30 @@ Experienced in web and mobile development, infrastructure, and system support. I
   &nbsp;Microsoft Learn
 </h4>
 
-- [cite_start]**Completed Courses:** Focused on Microsoft 365, Azure (fundamentals), productivity, security, and Microsoft environment administration[cite: 61, 62, 63, 64, 65, 66, 67].
+- **Completed Courses:** Focused on Microsoft 365, Azure (fundamentals), productivity, security, and Microsoft environment administration[cite: 61, 62, 63, 64, 65, 66, 67].
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/rest%20api.gif?raw=true" width="22" height="22" valign="middle">
   &nbsp;Projeto Desenvolve
 </h4>
 
-- [cite_start]**React.js and Node.js Course:** Completed July 2025 - August 2025[cite: 54, 55].
-- [cite_start]**Web & App Developer:** Fundamentals of web development, OOP, and REST API integration (July 2024 - Present)[cite: 47, 48, 49, 50].
+- **React.js and Node.js Course:** Completed July 2025 - August 2025.
+- **Web & App Developer:** Fundamentals of web development, OOP, and REST API integration (July 2024 - Present).
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/coding.gif?raw=true" width="22" height="22" valign="middle">
   &nbsp;Fundação Bradesco
 </h4>
 
-- [cite_start]**Completed Courses (2021):** Development with OOP, Programming Language Fundamentals, HTML, CSS, and Programming Logic[cite: 51, 52, 53].
+- **Completed Courses (2021):** Development with OOP, Programming Language Fundamentals, HTML, CSS, and Programming Logic.
 
 <h4>
   <img src="https://github.com/PkLavc/PkLavc.github.io/blob/3d9545fa32ed5e4659c2961febbab6aba70c9441/images/Globe.gif?raw=true" width="22" height="22" valign="middle">
   &nbsp;Languages
 </h4>
 
-- [cite_start]**Portuguese:** Native[cite: 26].
-- [cite_start]**English:** Reading, writing, and conversation (B1)[cite: 27].
+- **Portuguese:** Native[cite: 26].
+- **English:** Reading, writing, and conversation (B1).
 
 </details>
 
@@ -119,10 +119,10 @@ Experienced in web and mobile development, infrastructure, and system support. I
 
 ### Education
 
-[cite_start]**Bachelor in Computer Science** [cite: 57]  
-[cite_start]Centro Universitário UNA [cite: 56]  
-[cite_start]*Currently studying* [cite: 57]  
-[cite_start]Focus on programming fundamentals, computational systems, networks, and IT[cite: 59, 60].
+**Bachelor in Computer Science**  
+Centro Universitário UNA 
+*Currently studying*   
+Focus on programming fundamentals, computational systems, networks, and IT.
 
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
