@@ -4,9 +4,9 @@
 
 ### About Me
 
-[cite_start]**Full Stack Developer and IT Technician** [cite: 2]
+**Full Stack Developer and IT Technician**
 
-[cite_start]Experienced in web and mobile development, infrastructure, and system support[cite: 2]. [cite_start]I work with React.js, Node.js, Python, JavaScript, HTML, and SQL[cite: 3]. [cite_start]I apply agile methodologies (Scrum and Kanban) to deliver responsive, performant, and automated solutions[cite: 3].
+Experienced in web and mobile development, infrastructure, and system support. I work with React.js, Node.js, Python, JavaScript, HTML, and SQL. I apply agile methodologies (Scrum and Kanban) to deliver responsive, performant, and automated solutions.
   
 
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
@@ -14,8 +14,8 @@
 ### Professional Experience
 
 <p>
-  [cite_start]<b>IT Support Technician</b> — Statera TI [cite: 15]<br>
-  [cite_start]<i>Current</i> [cite: 15]
+  <b>IT Support Technician</b> — Statera TI <br>
+  <i>Current</i> [cite: 15]
 </p>
 
 - [cite_start]Administration and support in Microsoft 365[cite: 17].
