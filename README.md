@@ -161,10 +161,4 @@ Focus on programming fundamentals, computational systems, networks, and IT.
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasMartins-13/LucasMartins-13/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasMartins-13/LucasMartins-13/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasMartins-13/LucasMartins-13/output/pacman-contribution-graph.svg">
-</picture>
-
 <img src="https://komarev.com/ghpvc/?username=LucasMartins-13&color=00d1ff&style=for-the-badge">
