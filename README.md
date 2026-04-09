@@ -84,6 +84,13 @@ Experienced in web and mobile development, infrastructure, and system support. I
   <summary><strong>Courses & Certifications</strong></summary>
 
 <h4>
+  <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/coding.gif?raw=true" width="22" height="22" valign="middle">
+  &nbsp;Centro Universitário UNA
+</h4>
+
+- **Bachelor in Computer Science:** Currently studying. Focus on programming fundamentals, computational systems, networks, and IT.
+
+<h4>
   <img src="https://github.com/PkLavc/PkLavc/blob/7558ebc0a516b0a492aa486abbe534863e8fc3f3/resources/Icons/Animated/cloud.gif?raw=true" width="22" height="22" valign="middle">
   &nbsp;Microsoft Learn
 </h4>
@@ -119,10 +126,8 @@ Experienced in web and mobile development, infrastructure, and system support. I
 
 ### Education
 
-**Bachelor in Computer Science**  
-Centro Universitário UNA 
-*Currently studying*   
-Focus on programming fundamentals, computational systems, networks, and IT.
+**Bachelor in Computer Science** Centro Universitário UNA 
+*Currently studying* Focus on programming fundamentals, computational systems, networks, and IT.
 
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
