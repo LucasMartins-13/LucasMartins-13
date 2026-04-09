@@ -1,4 +1,4 @@
-## [cite_start]Hi, I'm Lucas Martins [cite: 1]
+## Hi, I'm Lucas Martins
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d1ff&center=false&vCenter=false&repeat=true&width=900&lines=Full+Stack+Developer+%26+IT+Technician;React.js+%7C+Node.js+%7C+Python+%7C+SQL;Web+%26+Mobile+Development;System+Support+%26+Infrastructure;Computer+Science+Student)](https://git.io/typing-svg)
 
